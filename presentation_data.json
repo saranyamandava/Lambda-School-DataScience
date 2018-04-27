@@ -1,40 +1,23 @@
+
 {
     "name": "Saranya Mandava",
-    "netlify_subdomain": "https://maclearninfo.netlify.com/",
+    "netlify_subdomain": "https://sad-panini-91fe4d.netlify.com/",
     "optional_dns": "maclearn.info",
     "blog_post_1": {
         "title": "My First Machine Learning Model",
-        "url": "https://medium.com/@mandava807/my-first-machine-learning-model-fd9008aeec63",
-        "keywords": ["<KWD1>","<KWD2>","<KWD3>"]
+        "url": "https://medium.com/@mandava807/my-first-machine-learning-model-fd9008aeec63"
+        
     },
     "blog_post_2": {
         "title": "Data Scrubbing",
-        "url": "https://medium.com/@mandava807/importance-of-data-scrubbing-fde615b59744",
-        "keywords": ["<KWD1>","<KWD2>","<KWD3>"]
+        "url": "https://medium.com/@mandava807/importance-of-data-scrubbing-fde615b59744"
+        
     },
     "blog_post_3": {
         "title": "Animating Objects with matplotlib for Google Colab",
-        "url": "https://medium.com/@mandava807/animating-objects-with-matplotlib-for-google-colab-b75871fe93e9",
-        "keywords": ["<KWD1>","<KWD2>","<KWD3>"]
+        "url": "https://medium.com/@mandava807/animating-objects-with-matplotlib-for-google-colab-b75871fe93e9"
+        
     },
-    "my_linkedin": "https://www.linkedin.com/in/saranya-mandava-54bb644b/",
-    "latex": "https://www.overleaf.com/read/cfbtgtxynkwp",
-"code":
-"$\begin{bmatrix}
-9 & 9 \\
-6 & 10 \\
-5 & 7 \\
-\\end{bmatrix}
-= 
-\begin{bmatrix}
-1 & 0 & 1 \\
-0 & 1 & 1 \\
-0 & 0 & 1 \\
-\\end{bmatrix}
-\\cdot
-\begin{bmatrix}
-4 & 2
-1 & 3
-5 & 7
-\\end{bmatrix}$"
+    "my_linkedin": "https://www.linkedin.com/in/saranya-mandava-54bb644b/"
 }
+  
