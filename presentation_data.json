@@ -18,6 +18,10 @@
         "url": "https://medium.com/@mandava807/animating-objects-with-matplotlib-for-google-colab-b75871fe93e9"
         
     },
+    "blog_post_4":{
+    "url": "https://medium.com/@mandava807/cross-validation-and-hyperparameter-tuning-in-python-65cfb80ee485",
+    "keywords": ["Parameter tuning", "cross validation", "-k-fold cross validation"]
+},
     "my_linkedin": "https://www.linkedin.com/in/saranya-mandava-54bb644b/"
 }
   
