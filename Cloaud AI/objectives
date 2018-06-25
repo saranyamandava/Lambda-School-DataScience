@@ -1,0 +1,10 @@
+Amazon AI
+use AWS to configure instances and servers for ML model productization
+
+Google TPUs
+access Google TPU computation resources through Google account
+
+TensorFlow
+write gpu-parallelized graph dataflows
+
+create dataflow graphs for convolutional neural nets
